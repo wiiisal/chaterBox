@@ -40,8 +40,8 @@ require("dotenv").config();
         <center>
         <h1 style="color:white;">${FullName}</h1>
         <h2 style="color:white;">${Subject}</h2>
-        <p>${Email}</p>
-        <p>${Message}</p>
+        <h1>${Email}</h1>
+        <h2>${Message}</h2>
         </center>
         </div>
     </body>
